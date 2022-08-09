@@ -3,8 +3,8 @@
 <img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - - 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning full stack Data Science
-- 📫 How to reach me: dhondgek9@gmail.com
+- 🌱 I’m currently learning , PowerApps,SharePoint , full stack Data Science
+- 📫 How to reach me: dhondgek9@gmail.com 
 
 ### Connect with me:
 
