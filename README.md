@@ -9,6 +9,9 @@
 <img align="right" width="250px"
 style="margin-top: 60px;"
 src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<table>
+<tr>
+<td width="60%">
 
 ## 👩‍💻 About Me
 
