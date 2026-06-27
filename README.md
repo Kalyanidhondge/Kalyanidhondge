@@ -1,20 +1,37 @@
-kuch acha or add kro to yha   github me dala he ye                  <h1 align="center"> Hi there, I'm Dhondge Kalyani 👋</h1>
+<h1 align="center">Hi there, I'm Dhondge Kalyani 👋</h1>
 
-<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<h3 align="center">🚀 Power Platform Developer | Power Apps | Power Automate | Power BI Enthusiast</h3>
 
-- - 🔭 I’m currently working as Powerapps developer And improving my skills
-- 🌱 I’m currently learning Python, PowerApps, PowerBI, SharePoint, Full stack Data Science
-- 📫 How to reach me: dhondgek9@gmail.com 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Power+Platform+Developer;Power+Apps+%7C+Power+Automate+%7C+Power+BI;Python+Learner+%F0%9F%90%8D;Full+Stack+Data+Science+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
+</p>
 
-### Connect with me:
+<img align="right" width="250px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
+## 👩‍💻 About Me
+
+- 🔭 I’m currently working as a **Power Platform Developer**
+- 🌱 I’m currently learning **Python, Full Stack Data Science, AI & Cloud Technologies**
+- 💡 Passionate about building business applications and automating workflows
+- 📊 Interested in **Data Analytics, Business Intelligence & Automation**
+- 🎯 Goal: To become a **Microsoft Solution Architect**
+- ⚡ Fun Fact: I love transforming business problems into digital solutions
+
+<br>
+
 ## 🛠️ Tech Stack
 
-```text
-Power Apps | Power Automate | Power BI
-SharePoint | Dataverse | SQL Server
-Python | Excel | HTML | CSS | JavaScript
-Git | GitHub
-- 📫 How to reach me: dhondgek9@gmail.com 
+💼 Power Platform
+Power Apps | Power Automate | Power BI | SharePoint | Dataverse
+
+💻 Programming & Web
+Python | HTML | CSS | JavaScript
+
+🗄️ Databases
+SQL Server | MySQL | MongoDB
+
+🛠️ Tools & Technologies
+Git | GitHub | VS Code | Excel
 
 ### Connect with me:
 
@@ -46,7 +63,7 @@ Git | GitHub
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 
 
-
+         
 
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
