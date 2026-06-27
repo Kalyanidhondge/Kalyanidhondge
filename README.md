@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Power+Platform+Developer;Power+Apps+%7C+Power+Automate+%7C+Power+BI;Python+Learner+%F0%9F%90%8D;Full+Stack+Data+Science+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
-<img align="right" width="250px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" width="250px" hspace="10" vspace="60"
+src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 ## 👩‍💻 About Me
 
 - 🔭 I’m currently working as a **Power Platform Developer**
 - 🌱 I’m currently learning **Python, Full Stack Data Science, AI & Cloud Technologies**
-   <img align="right" width="250px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 - 💡 Passionate about building business applications and automating workflows
 - 📊 Interested in **Data Analytics, Business Intelligence & Automation**
 - 🎯 Goal: To become a **Microsoft Solution Architect**
