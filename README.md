@@ -1,18 +1,12 @@
-<h1 align="center">Hi there, I'm Dhondge Kalyani 👋</h1>
+kuch acha or add kro to yha   github me dala he ye                  <h1 align="center"> Hi there, I'm Dhondge Kalyani 👋</h1>
 
-<h3 align="center">💻 Power Platform Developer | Data Enthusiast | Lifelong Learner 🚀</h3>
+<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-<img align="right" width="250px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+- - 🔭 I’m currently working as Powerapps developer And improving my skills
+- 🌱 I’m currently learning Python, PowerApps, PowerBI, SharePoint, Full stack Data Science
+- 📫 How to reach me: dhondgek9@gmail.com 
 
-## 👩‍💻 About Me
-
-- 🔭 Currently working as a **PowerApps Developer**
-- 🌱 Currently learning **Python, Full Stack Data Science & Advanced Power Platform**
-- 💡 Passionate about building business solutions using **Power Apps, Power Automate, SharePoint & Power BI**
-- 📊 Interested in **Data Analytics, Automation and AI**
-- 🎯 Goal: To become a **Microsoft Power Platform & Data Expert**
-- ⚡ Fun fact: I love solving real-world business problems through technology.
-
+### Connect with me:
 ## 🛠️ Tech Stack
 
 ```text
