@@ -70,6 +70,11 @@ Git | GitHub | VS Code | Excel
 ### ⚙️ Languages and Tools
 
 <p align="center">
+  <p align="center">
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+</p>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
@@ -81,6 +86,7 @@ Git | GitHub | VS Code | Excel
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
+
 ## 📈 GitHub Stats
 
 <p align="center">
