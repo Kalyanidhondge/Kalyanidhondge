@@ -20,6 +20,7 @@ src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 ## 🛠️ Tech Stack
 
+```text
 💼 Power Platform
 Power Apps | Power Automate | Power BI | SharePoint | Dataverse
 
@@ -31,7 +32,7 @@ SQL Server | MySQL | MongoDB
 
 🛠️ Tools & Technologies
 Git | GitHub | VS Code | Excel
-
+```
 ## 🚀 Featured Projects
 
 #### 📋 Customs Declaration System
