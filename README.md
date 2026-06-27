@@ -11,7 +11,8 @@ style="margin-top: 60px;"
 src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 
-<h2> 👩‍💻 About Me</h2>
+<h2>👩‍💻 About Me</h2>
+<hr width="65%" align="left">
 
 - 🔭 I’m currently working as a **Power Platform Developer**
 - 🌱 I’m currently learning **Python, Full Stack Data Science, AI & Cloud Technologies**
