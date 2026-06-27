@@ -66,25 +66,22 @@ Git | GitHub | VS Code | Excel
 
 <br/>
 
-
-### ⚙️ Languages and Tools
+## ⚙️ Languages and Tools
 
 <p align="center">
-  <p align="center">
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
-</p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img alt="Power Apps" width="40px" src="https://img.icons8.com/color/48/microsoft-power-apps-2020.png" />
+  <img alt="Power Automate" width="40px" src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" />
+  <img alt="Power BI" width="40px" src="https://img.icons8.com/color/48/power-bi.png" />
+  <img alt="SharePoint" width="40px" src="https://img.icons8.com/color/48/sharepoint.png" />
+  <img alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="Python" width="40px" src="https://img.icons8.com/color/48/python.png" />
+  <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/mongodb.png" />
+  <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+  <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 </p>
 
 ## 📈 GitHub Stats
