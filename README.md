@@ -69,10 +69,7 @@ Git | GitHub | VS Code | Excel
 ## ⚙️ Languages and Tools
 
 <p align="center">
-  <img alt="Power Apps" width="40px" src="https://img.icons8.com/color/48/microsoft-power-apps-2020.png" />
-  <img alt="Power Automate" width="40px" src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" />
   <img alt="Power BI" width="40px" src="https://img.icons8.com/color/48/power-bi.png" />
-  <img alt="SharePoint" width="40px" src="https://img.icons8.com/color/48/sharepoint.png" />
   <img alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
   <img alt="Python" width="40px" src="https://img.icons8.com/color/48/python.png" />
