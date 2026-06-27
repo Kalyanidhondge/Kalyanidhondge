@@ -2,6 +2,7 @@
 
 <h3 align="center">🚀 Power Platform Developer | Power Apps | Power Automate | Power BI Enthusiast</h3>
 
+<br><br><br><br><br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Power+Platform+Developer;Power+Apps+%7C+Power+Automate+%7C+Power+BI;Python+Learner+%F0%9F%90%8D;Full+Stack+Data+Science+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
@@ -16,7 +17,6 @@
 - 📊 Interested in **Data Analytics, Business Intelligence & Automation**
 - 🎯 Goal: To become a **Microsoft Solution Architect**
 - ⚡ Fun Fact: I love transforming business problems into digital solutions
-<br><br><br>
 <br>
 
 ## 🛠️ Tech Stack
