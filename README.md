@@ -10,10 +10,7 @@
 style="margin-top: 60px;"
 src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-
-<h2>👩‍💻 About Me</h2>
-<hr width="65%" align="left">
-
+## 👩‍💻 About Me
 - 🔭 I’m currently working as a **Power Platform Developer**
 - 🌱 I’m currently learning **Python, Full Stack Data Science, AI & Cloud Technologies**
 - 💡 Passionate about building business applications and automating workflows
@@ -28,15 +25,12 @@ Power Apps | Power Automate | Power BI | SharePoint | Dataverse
 
 💻 Programming & Web
 Python | HTML | CSS | JavaScript
-
 🗄️ Databases
 SQL Server | MySQL | MongoDB
-
 🛠️ Tools & Technologies
 Git | GitHub | VS Code | Excel
 
 ### Connect with me:
-
 
 
 <a href="https://www.linkedin.com/in/kalyani-dhondge-509a37129/" target="_blank">
@@ -63,9 +57,6 @@ Git | GitHub | VS Code | Excel
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
-
-
-         
 
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
