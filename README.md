@@ -14,7 +14,7 @@ src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 🔭 I’m currently working as a **Power Platform Developer**
 - 🌱 I’m currently learning **Python, Full Stack Data Science, AI & Cloud Technologies**
-
+&nbsp;&nbsp;&nbsp;
 <img align="right" width="250px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 💡 Passionate about building business applications and automating workflows
