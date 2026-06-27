@@ -25,10 +25,31 @@ Power Apps | Power Automate | Power BI | SharePoint | Dataverse
 
 💻 Programming & Web
 Python | HTML | CSS | JavaScript
+
 🗄️ Databases
 SQL Server | MySQL | MongoDB
+
 🛠️ Tools & Technologies
 Git | GitHub | VS Code | Excel
+
+## 🚀 Featured Projects
+
+### 📋 Customs Declaration System
+- Developed using Power Apps, Power Automate, SharePoint, and Power BI.
+- Automated approval workflows and generated real-time reports.
+
+### 🏢 Employee Onboarding Portal
+- Built an onboarding solution with multi-level approvals.
+- Automated employee document management process.
+
+### 📊 Power BI Sales Dashboard
+- Created interactive dashboards using DAX and Power Query.
+- Enabled data-driven business insights.
+
+### 🔄 Workflow Automation Solutions
+- Automated business processes using Power Automate.
+- Reduced manual efforts and improved efficiency.
+
 
 ### Connect with me:
 
