@@ -51,16 +51,17 @@ Git | GitHub | VS Code | Excel
 - Reduced manual efforts and improved efficiency.
 
 
-### Connect with me:
+## 🌐 Connect With Me
 
-
+<p align="left">
 <a href="https://www.linkedin.com/in/kalyani-dhondge-509a37129/" target="_blank">
-  <img align="left" alt="kalyanidhondge" | Linkedin" title="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/linkedin.svg"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-                                                                                                                                      
 
-<br />
-
+<a href="mailto:dhondgek9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p> <br?
 
 
 ### Languages and Tools:
