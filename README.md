@@ -87,5 +87,17 @@ Git | GitHub | VS Code | Excel
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanidhondge&layout=compact&theme=tokyonight"/>
 </p>
 
+## 💭 Quote
+
+> "Transforming ideas into impactful digital solutions through Microsoft Power Platform."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
 ---
 
